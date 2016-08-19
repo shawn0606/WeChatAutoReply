@@ -17,7 +17,7 @@
 #### 安装
 - 打开模拟器，看到如下
 
-- ![模拟器图片](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_1.png)
+- ![模拟器图片](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_1.jpeg)
 
 - 可以直接在电脑上将Xposed框架安装包选择拖到模拟器中进行安装,安装后效果如下
 
