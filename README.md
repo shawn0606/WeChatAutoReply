@@ -10,3 +10,5 @@
 
 
 ### 使用讲解 （以虚拟机演示为例）
+- 下载安卓虚拟机（这里以海马玩为例，[下载地址](http://droid4x.haimawan.com/?from=000000928)）
+- 下载Xposed框架安装包,[下载地址](http://yun.baidu.com/share/link?shareid=3961827207&uk=2669050263&third=0) (需要说明的是5.0系统以下的手机或模拟器不支持Xposed最新的3.0版本，所以我们装2.7版本)
