@@ -21,4 +21,4 @@
 
 - 可以直接在电脑上将Xposed框架安装包选择拖到模拟器中进行安装,安装后效果如下
 
-- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_2.png)
+- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_2.jpeg)
