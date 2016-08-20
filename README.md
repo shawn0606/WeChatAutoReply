@@ -17,47 +17,47 @@
 #### 安装
 - 打开模拟器，看到如下
 
-- ![模拟器图片](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_1.jpeg)
+- ![模拟器图片](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/xp_1.jpeg)
 
 - 可以直接在电脑上将Xposed框架安装包选择拖到模拟器中进行安装,安装后效果如下
 
-- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_2.jpeg)
+- ![安装Xposed后效果](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/xp_2.jpeg)
 
 - 点开Xposed应用可看到如下界面，然后点击框中的框架
 
-- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_3.jpeg)
+- ![安装Xposed后效果](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/xp_3.jpeg)
 
 - 点开框架可看到如下界面，然后点击确定
 
-- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_4.jpeg)
+- ![安装Xposed后效果](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/xp_4.jpeg)
 
 - 点击安装/更新，然后点击授权
 
-- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_12.jpeg)
-- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_5.jpeg)
+- ![安装Xposed后效果](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/xp_12.jpeg)
+- ![安装Xposed后效果](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/xp_5.jpeg)
 
 - 弹出如下对话框，点击确定重启模拟器 
-- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_6.jpeg)
+- ![安装Xposed后效果](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/xp_6.jpeg)
 
 
 - 重启模拟器之后打开Xposed，点击框架可看到如下图效果 
-- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_7.jpeg)
+- ![安装Xposed后效果](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/xp_7.jpeg)
 
 
 - 然后拖拽安装微信和微信自动回复插件，安装后效果如下 
-- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_8.jpeg)
+- ![安装Xposed后效果](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/xp_8.jpeg)
 
 
 - 登陆微信，然后打开Xposed ，点击模块
-- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_9.jpeg)
+- ![安装Xposed后效果](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/xp_9.jpeg)
 
 
 - 看到如下图效果，勾选选中微信自动回复
-- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_10.jpeg)
+- ![安装Xposed后效果](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/xp_10.jpeg)
 
 
 - 返回Xposed主界面，点击进入框架页面然后点击软重启，如下图
-- ![安装Xposed后效果](http://fxblog.oss-cn-beijing.aliyuncs.com/xp_11.jpeg)
+- ![安装Xposed后效果](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/xp_11.jpeg)
 
 ####好了，重启之后你就可以打开微信自动回复插件愉快的玩耍了~
 
@@ -65,6 +65,6 @@
 
 
 ##如果喜欢我的作品欢迎打赏支持
-![](http://fxblog.oss-cn-beijing.aliyuncs.com/wechat_pay.png)
+![](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/wechat_pay.png)
 
-![](http://fxblog.oss-cn-beijing.aliyuncs.com/ali_pay.JPG)
+![](https://github.com/shawn0606/WeChatAutoReply/blob/master/imgs/ali_pay.JPG)
