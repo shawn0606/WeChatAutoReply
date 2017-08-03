@@ -1,3 +1,6 @@
+## 由于没时间维护，出售源码，有意向加微信shawn_0606
+
+
 # WeChatAutoReply
 
 ## 微信自动回复Xposed插件
